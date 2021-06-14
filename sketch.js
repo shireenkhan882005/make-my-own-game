@@ -9,7 +9,6 @@ function preload(){
   bg= loadImage("images/background.png")
   basketImg = loadImage ("images/basket2.png")
   butterflyimg= loadAnimation ("images/ba1.png","images/ba2.png", "images/ba3.png","images/ba4.png","images/ba5.png","images/ba6.png","images/ba7.png","images/ba8.png","images/ba9.png","images/ba10.png","images/ba11.png","images/ba12.png","images/ba13.png","images/ba14.png")
-  flower1img=loadImage("images/flower1.png")
   flower2img=loadImage("images/flower2.png")
 }
 
